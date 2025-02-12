@@ -19,4 +19,4 @@ This project is simple DEX smart contracts project.
 ## Local run
    * Install libraries :      npm i 
    * Compile smart contracts: npx hardhat compile
-   * Run local tests:         npx hardhat test 
+   * Run local tests:         npx hardhat test
